@@ -1,4 +1,4 @@
-<h1 align="center">🚀 End-to-End AI-Powered Retention System</h1>
+<h1 align="center">🚀 Churn Prediction ML Project</h1>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python"></a>
@@ -90,3 +90,4 @@ If this project helped you:
 ⭐ Star this repo  
 📢 Share it with others  
 💬 Open an issue for suggestions or improvements
+
